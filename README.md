@@ -3,7 +3,7 @@ notebooks
 
 Notebooks on how to use Distributed Evolutionary Algorithm in Python (DEAP)
 
-* [**DEAP: Enabling Nimber Evolutions**](SIGEvolution.ipynb) (published in [SIGEvolution, volume 6 issue 2](http://sigevolution.org))
+* [**DEAP: Enabling Nimbler Evolutions**](SIGEvolution.ipynb) (published in [SIGEvolution, volume 6 issue 2](http://sigevolution.org))
 * [**Genetic algorithm : OneMax problem**](OneMax.ipynb)
 
 Notebooks by [Luis Martí](http://lmarti.com) for the graduate course [Advanced Evolutionary Computation: Theory and Practice](http://lmarti.com/aec-2014).
